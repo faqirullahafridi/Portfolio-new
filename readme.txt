@@ -80,3 +80,4 @@ faqir-portfolio/
 
 > *Built for speed, simplicity, and seamless user experience. Feel free to fork, customize, and share!*
 
+faqirullahafridi
